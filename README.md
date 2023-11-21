@@ -2,8 +2,7 @@
 
 ## Contents
 
-* [StyleGAN](Paper.pdf)
-* [StyleGAN2](Paper++.pdf)
+* [StyleGAN](Paper++(1).pdf)
 
 ## Summary 
 
