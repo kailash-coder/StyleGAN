@@ -2,7 +2,7 @@
 
 ## Contents
 
-* [StyleGAN](Paper++(1).pdf)
+* [StyleGAN](https://github.com/kailash-coder/StyleGAN/blob/main/Paper%2B%2B%20(1).pdf)
 
 ## Summary 
 
