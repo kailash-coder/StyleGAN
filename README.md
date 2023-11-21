@@ -83,10 +83,16 @@ If a latent space is sufficiently disentangled, it should be possible to find di
 ### Setup
 
 * Download the Dataset for training using the given below link :
+
    [dataset](https://drive.google.com/file/d/1badu11NqxGf6qM3PTTooQDJvQbejgbTv/view)
-* change the path of "DATA" in "StyleGAN.ipynb" code to the path where the Dataset is located in local memory as given below :
-    DATA = "/content/dataset/CelebAMask-HQ/CelebAMask-HQ/CelebA-HQ-img/"
-* Create a file named "checkpoints" and change the path of "CHECKPOINT" in "StyleGAN.ipynb" code to the path where the "checkpoints" file is located in local memory as given below :
-    CHECKPOINT = "/content/Desktop/Projects/checkpoints/"
+  
+* Update the path of "DATA" in "StyleGAN.ipynb" to the local path of your 'CelebA-HQ-img' directory from the dataset as given below :
+
+      DATA = """C:\\Users\\ASUS\\Desktop\\Projects\\dataset\\CelebAMask-HQ\\CelebAMask-HQ\\CelebA-HQ-img\\"""
+  
+* Create a file named "checkpoints" and update the path of "CHECKPOINT" in "StyleGAN.ipynb" code to the local path of "checkpoints" directory as given below :
+
+      CHECKPOINT = """C:\\Users\\ASUS\\Desktop\\Projects\\checkpoints\\"""   # Update this path 
+           
 * Finally, run the code "StyleGAN.ipynb" to render the model
     
